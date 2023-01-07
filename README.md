@@ -8,6 +8,9 @@ Página inicial de um site fictício Museu  nacional, projeto desenvolvido duran
 
 # Página Inicial
      
+![1](https://user-images.githubusercontent.com/113555075/211164776-79baa613-f92b-4a68-8e47-170466e5673d.png)
+
+![2](https://user-images.githubusercontent.com/113555075/211164798-fed54cfb-c5ae-44bf-b5bb-98e0d6a41b4f.png)
 
 
 # Tecnologias utilizadas
